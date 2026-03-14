@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/juanhastier/single-price-grid-component)
-- Live Site URL: [Result Summary Component](https://juanhastier.github.io/single-price-grid-component)
+- Live Site URL: [Single Price Grid Component](https://juanhastier.github.io/single-price-grid-component)
 
 ## My process
 
